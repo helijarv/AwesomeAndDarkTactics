@@ -2,7 +2,7 @@
 layout: tactic
 
 title:  "Apply sampling techniques"
-tags: data-processing, machine-learning, design-tactic
+tags: data-processing machine-learning design-tactic measured energy-footprint
 t-sort: "Awesome Tactic"
 t-type: "Architectural Tactic"
 categories: data-centric
